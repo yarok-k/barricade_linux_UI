@@ -1,0 +1,107 @@
+/* top bar style */
+#bar{
+    background-color: rgba(41, 38, 38,1); 
+    color: #ffffff;
+}
+#start{
+    color: #ffffff;
+    background: none;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    border-image: none;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font: inherit;
+    min-height: 0;
+    min-width: 0;
+    outline: none;
+}
+#start:hover{
+    color: #ffffff;
+    background-color: rgb(114, 114, 114);
+    border: none;
+    box-shadow: none;
+    border-image: none;
+    font: inherit;
+    min-height: 0;
+    min-width: 0;
+    outline: none;
+}
+#clock{
+    color: #ffffff;
+    background: none;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    border-image: none;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font: inherit;
+    min-height: 0;
+    min-width: 0;
+    outline: none;
+}
+#clock:hover{
+    color: #ffffff;
+    background-color: rgb(114, 114, 114);
+    border: none;
+    box-shadow: none;
+    border-image: none;
+    font: inherit;
+    min-height: 0;
+    min-width: 0;
+    outline: none;
+}
+
+#bar_right_section {
+    color: #ffffff;
+    background: none;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    border-image: none;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font: inherit;
+    min-height: 0;
+    min-width: 0;
+    outline: none;
+}
+#bar_right_section:hover {
+    color: #ffffff;
+    background-color: rgb(114, 114, 114);
+    border: none;
+    box-shadow: none;
+    border-image: none;
+    font: inherit;
+    min-height: 0;
+    min-width: 0;
+    outline: none;
+}
+
+
+
+/* dock pannel style */
+#dock{
+    background-color: rgba(41, 38, 38,1);
+    border-radius: 25px;
+}
+#start_button_dock {
+    color: #ffffff;
+    background: none;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    border-image: none;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font: inherit;
+    min-height: 0;
+    min-width: 0;
+    outline: none;
+}
